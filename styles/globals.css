@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-brandBg text-slate-800;
+  font-family: system-ui, -apple-system, sans-serif;
+}
