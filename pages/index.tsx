@@ -1,5 +1,5 @@
 import Layout from "@/components/Layout";
-import home from "@/content/home.md";
+import home from "../content/home.md";
 
 type HomeAttributes = {
   title: string;
